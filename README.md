@@ -1,4 +1,4 @@
-# Parkinsons diseases prediction
+# Parkinsons Diseases Prediction
 In this scripts, I analyzed the Parkinsons dataset from UCI machine learning repository.
 
 Little, M.A., McSharry, P.E., Roberts, S.J. et al. Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection. BioMed Eng OnLine 6, 23 (2007).
